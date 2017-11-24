@@ -20,6 +20,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 # Netbeans files
 target
+=======
+>>>>>>> c3c923f94ecb9430f00985a93db637345db5bc65
